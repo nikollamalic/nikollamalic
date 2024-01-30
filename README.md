@@ -15,6 +15,7 @@
 - Solidity ⛽️
   
 🔭 Currently playing with Flutter 🍃
+
 👯 Contributing to Web3 Projects 
 
 📆 Helping build software since 2018
