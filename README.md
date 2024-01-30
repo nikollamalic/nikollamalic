@@ -1,16 +1,20 @@
-### Hi there 👋
+### Welcome! 👋
 
-<!--
-**nikollamalic/nikollamalic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ *Interested in:*
 
-Here are some ideas to get you started:
+- Blockchains (Ethereum and beyond)
+- Product development (From 0 to Hero)
+- Smart contract development
+- Data pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 *Proficient with:*
+
+- JS (Typescript) 🕸️
+- C# (.NET) ⚡
+- Python 🐍
+- Solidity ⛽️
+  
+🔭 Currently playing with Flutter 🍃
+👯 Contributing to Web3 Projects 
+
+📆 Helping build software since 2018
